@@ -15,10 +15,11 @@ The Go Live app is a cross-platform mobile application developed in React Native
 
 ## Previews
 ![Screenshot_1715153892](https://github.com/Riser17/GoLiveApp/assets/91198103/373e7cf7-5e67-47de-bcd1-30382ef3f931)   
-
-![Screenshot_1715154488](https://github.com/Riser17/GoLiveApp/assets/91198103/bd46479e-e5c0-4241-be4b-45e231bb8f81)
 ![1715154880772](https://github.com/Riser17/GoLiveApp/assets/91198103/275209dd-e5b1-4e10-836f-54cdfe773413)
 
+![Screenshot_1715154488](https://github.com/Riser17/GoLiveApp/assets/91198103/bd46479e-e5c0-4241-be4b-45e231bb8f81)
+
+![Screenshot_1715154452](https://github.com/Riser17/GoLiveApp/assets/91198103/fa70dacb-4a24-421c-bc71-30a18b422734)
 ![1715154880702](https://github.com/Riser17/GoLiveApp/assets/91198103/7ca53941-cf01-466c-bdd4-29da174515cb)
 
 
